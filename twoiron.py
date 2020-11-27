@@ -1,5 +1,4 @@
 import pyautogui
-import pydirectinput
 import time
 import datetime
 import random
@@ -107,26 +106,7 @@ def log():
     time.sleep(3)
     pyautogui.moveTo(1033, 314, 1)
     pyautogui.click()
-    pyautogui.press("m")
-    time.sleep(.1)
-    pyautogui.press("o")
-    time.sleep(.1)
-    pyautogui.press("m")
-    time.sleep(.1)
-    pyautogui.press("o")
-    time.sleep(.1)
-    pyautogui.press("e")
-    time.sleep(.1)
-    pyautogui.press("6")
-    time.sleep(.1)
-    pyautogui.press("6")
-    time.sleep(.1)
-    pyautogui.press("5")
-    time.sleep(.1)
-    pyautogui.press("5")
-    time.sleep(.1)
-    pyautogui.press("5")
-    time.sleep(.1)
+    #[CODE REMOVED TO PROTECT SECURITY, CONTAINED LOGIN INFORMATION]
     pyautogui.moveTo(879, 343, 1)
     pyautogui.click()
     time.sleep(15)
