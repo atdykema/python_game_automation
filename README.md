@@ -1,2 +1,5 @@
 # Python scripts for game automation!
-Script which automates actions within a video game to make for easier gameplay. Uses PyAutoGUI module to allow for easier interaction with screen.
+
+Oldschool Runescape, the online MMORPG for which these scripts were written for, is a game based very much on spending large amounts of time grinding experience points in order to level up your character. Generally, the ways in which experience is gained in this game does not involve much attention in order to do effectively, making parts of the game very boring and tiresome. Having found myself playing this game several months ago, I thought it might be a fun challange to build a script to play the boring parts of the game for me when I didn't want to and even when I wasn't awake.
+
+Using Python and the PyAutoGUI library, I was able to fashion myself a script which could be able to detect the minablility of minerals in my characters viscinity and mine them when they were able to be mined. I also incorperated more randomized clicking in order to look more like a normal player to avoid penalties and programmed a system which could detect if my character was logged out due to the game's six hour log-out timer and get my character back in rhythm
